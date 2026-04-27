@@ -9,3 +9,5 @@ Foi desafiador vencer a heterogeneidade das diversas fontes de dados. Mais do qu
 Essas ferramentas permitem que gestores e pesquisadores identifiquem pontos de gargalo e oportunidades de fomento, sem precisar navegar em bancos de dados brutos ou planilhas estáticas. Além disso, tornam visível a estrutura subjacente do sistema científico brasileiro, permitindo que políticas de fomento sejam desenhadas com base em evidências espaciais concretas, e não apenas em métricas agregadas.
 
 Em última análise, esses painéis não são apenas auxiliares de visualização, mas instrumentos de suporte à decisão. 
+
+Clique em Streamlit_app_link para acessar os links dos dashboards desenvolvidos no Streamlit.
